@@ -7,7 +7,7 @@
   
 const {sum} = require('./helper');
 
-  const total = sum(10,15);
+  const total = sum(10,15); 
 
 console.log("total ",total);
 
